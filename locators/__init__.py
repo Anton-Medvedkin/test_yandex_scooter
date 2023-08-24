@@ -1,0 +1,2 @@
+from .ScooterHomePageLocators import HomePageLocators
+from .ScooterOrderFormPageLocators import OrderFormPageLocators
